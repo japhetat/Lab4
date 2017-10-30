@@ -21,7 +21,7 @@
 				<artifactId>javafx-maven-plugin</artifactId>
 				<version>8.1.2</version>
 				<configuration>
-					<mainClass>poker.app.MainApp</mainClass>
+					<mainClass>app.Flamingo</mainClass>
 					<nativeInstallers />
 				</configuration>
 			</plugin>
