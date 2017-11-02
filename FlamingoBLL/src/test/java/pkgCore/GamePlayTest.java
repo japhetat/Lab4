@@ -11,9 +11,9 @@ import pkgEnum.eGameType;
 
 public class GamePlayTest {
 	Table t = new Table();
-	Player Player1 = new Player("Anthony Hewitt",1);
-	Player Player2 = new Player("Anthony Hewitt",1);
-	Player Player3 = new Player("Anthony Hewitt",1);
+	Player Player1 = new Player("Japhet Teshale",1);
+	Player Player2 = new Player("Japhet Teshale",1);
+	Player Player3 = new Player("Japhet Teshale",1);
 	HashMap<UUID,Player> PlayersAtTable;
 	GamePlayBlackJack Game = new GamePlayBlackJack(eGameType.BLACKJACK);
 	

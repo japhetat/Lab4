@@ -6,9 +6,9 @@ import org.junit.Test;
 
 public class TableTest {
 	Table t = new Table();
-	Player Player1 = new Player("Anthony Hewitt",1);
-	Player Player2 = new Player("Anthony Hewitt",1);
-	Player Player3 = new Player("Anthony Hewitt",1);
+	Player Player1 = new Player("Japhet Teshale",1);
+	Player Player2 = new Player("Japhet Teshale",1);
+	Player Player3 = new Player("Japhet Teshale",1);
 	@Test
 	public void test() {
 		
